@@ -526,20 +526,6 @@ presence_penalty: 0.6   # Reduce repetition
 - **Rate Limiting:** Built-in backoff to respect recipient servers
 - **Unsubscribe:** One-click unsubscribe in all emails
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! To get started:
-
-**Setup Checklist:**
-- [ ] Fork repo and create feature branch
-- [ ] Install dev dependencies: `pip install -r requirements-dev.txt`
-- [ ] Run linter: `black . && flake8`
-- [ ] Add unit tests for new features
-- [ ] Ensure tests pass: `pytest tests/`
-- [ ] Update documentation if needed
-- [ ] Submit PR with clear description
 
 **Roadmap:**
 - [ ] Multi-language support (Spanish, French, German)
