@@ -1,14 +1,6 @@
-# 🎯 ArtisanBDR
+# 🎯 AI BDR
 
-```
-   ___          __  _                 ____  ____  ____ 
-  / _ | ______ / /_(_)__ ___ ____    / __ \/ __ \/ __ \
- / __ |/ __/ // __/ (_-</ _ `/ _ \  / /_/ / / / / /_/ /
-/_/ |_/_/  \_, /\__/_/___/\_,_/_//_/  \____/_/ /_/\__, / 
-          /___/                                   /____/  
-          
-    AI Business Development Representative
-    Built for scale. Optimized for conversion.
+
 ```
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Downloads](https://img.shields.io/badge/downloads-2.5k%2Fmo-orange)
@@ -554,13 +546,3 @@ We welcome contributions! To get started:
 - [ ] Voice AI for automated cold calling
 - [ ] A/B test orchestration UI
 - [ ] Zapier/Make.com integrations
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-Built with ❤️ by developers who hate cold outreach but love automation.
