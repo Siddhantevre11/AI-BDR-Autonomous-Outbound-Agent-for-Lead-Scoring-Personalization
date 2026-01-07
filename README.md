@@ -4,6 +4,9 @@ Jim is a **production-grade autonomous AI BDR** designed to research leads, gene
 
 This repository focuses on **engineering, evaluation, and deployment**, not marketing polish. Jim is built to demonstrate how modern agent systems behave under real-world constraints: latency, reliability, cost, safety, and observability.
 
+
+<img width="750" height="413" alt="image" src="https://github.com/user-attachments/assets/42cde017-bf2c-4d84-ba3b-99a73a090802" />
+
 ---
 
 ## Why This Project Matters
